@@ -26,6 +26,10 @@ coeffs["I2s"] = "$I_{2s}$"
 coeffs["I2c"] = "$I_{2c}$"
 coeffs["I1s"] = "$I_{1s}$"
 coeffs["I1c"] = "$I_{1c}$"
+coeffs["frac_signal"] = "$frac_signal$"
+coeffs["frac_Ds"] = "$frac_Ds$"
+coeffs["frac_Dplus"] = "$frac_Dplus$"
+
 
 
 columns1=['tot bkg frac','BDT','wI','fit'] 
